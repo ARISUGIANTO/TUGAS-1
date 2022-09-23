@@ -1,0 +1,103 @@
+a {
+    text-decoration: none;
+}
+body{
+    background: -webkit-linear-gradient(bottom,#008000,#7CFC00);
+    
+    background-repeat: no-repeat;
+
+}
+
+label{
+    font-family: "raleway",sans-serif;
+    font-size: 11px;
+}
+#forgot-password{
+font-family: "raleway",sans-serif;
+font-size: 10pt;
+margin-top: 3px;
+text-align: right;
+
+}
+
+#login{
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+}
+
+#login-content{
+    padding: 12px 44px;
+}
+#login-title{
+    font-family: "releway", sans-serif;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+
+}
+#signup{
+    font-family: "releway", sans-serif;
+    font-size: 10pt;
+    margin-top: 16px;
+    text-align: center;
+
+}
+#submit-btn {
+    background: -webkit-linear-gradient(left,#008000, #7cfc00);
+    border-radius: 21px;
+    border: none;
+    box-shadow: 0px 1px 8px #ffffff;
+    cursor: pointer;
+    color: white;
+    font-family: "releway semi bold",sans-serif;
+    height: 42.3px;
+    margin: 0 auto;
+    margin-top: 50px;
+    transition: 0.25s;
+    width: 153px;
+}
+
+#submit-btn:hover{
+    box-shadow: 0px 1px 18px #ffffff;
+}
+
+.form{
+    align-items: left;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.form-border{
+    height: 1px;
+    width: 100%;
+    background: -webkit-linear-gradient(left,#008000, #7cfc00);
+}
+.form-content{
+    border: none;
+    outline: none;
+    padding: 14px;
+
+}
+
+.underline-title{
+    background: -webkit-linear-gradient(left, #008000,#7cfc00);
+    height: 2px;
+    margin: -1.1rem auto 0 auto;
+    width: 89px;
+}
+
+.underline-email {
+    background: -webkit-linear-gradient(left,#008000,#7cfc00);
+    height: 2px;
+    margin :1px auto 0 auto;
+    width: 300px;
+
+}
+
+
